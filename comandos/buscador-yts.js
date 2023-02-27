@@ -1,4 +1,3 @@
-import yts from "yt-search";
 
 /**
  *
