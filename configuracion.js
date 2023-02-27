@@ -72,7 +72,7 @@ global.APIKeys = { // APIKey Here
 global.lenguajeGB = es
 
 /* ______________________________________________ */
-global.creadorname = '𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂'
+global.creadorname = 'Touma'
 global.creatorname = creadorname
 global.library = 'BAILEYS-MD'
 global.vs = 'V10'
@@ -87,14 +87,14 @@ global.mes = d.toLocaleDateString('es', { month: 'long' })
 global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //------------- Sticker WM -----------
-global.packname = `𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂`
-global.author = `©⏤͟͟͞𝐓𝐇𝐄 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃`
+global.packname = 'BGT BOT'
+global.author = `© 𝕭𝖆𝖌𝖓𝖆𝖙𝖊 𝕭𝖔𝖙⏤`
 //_______________
-global.wm = '𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓 | 𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂'
-global.db3t = `©⏤͟͟͞𝐓𝐇𝐄 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃`
+global.wm = 'BGT BOT'
+global.db3t = `© 𝕭𝖆𝖌𝖓𝖆𝖙𝖊 𝕭𝖔𝖙⏤`
 global.wm3 = db3t
-global.igfg = '𝑫𝑶𝑹𝑹𝑨𝑻-𝑩𝑶𝑻'
-global.wait = '*[❕] CARGANDO POR FAVOR ESPERA...*'
+global.igfg = 'BGT BOT'
+global.wait = '*[❕] Espera porfi...*'
 //-------------------
 global.md = 'https://chat.whatsapp.com/JuuuUaIQnnE3t4SWQenShg'
 global.dorramd = md
